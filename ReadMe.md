@@ -8,7 +8,7 @@
     lepteto(index)-beírja az aktuális elemet, megnöveli egyel
 ### View
     **Mezo**: egy divet jelenít meg, saját eseményt itt tudjuk generálni, hogy megtudjuk melyik elemre kattintottunk
-    **Palya**: annyi a dolga, hogy az aktuális állapotot megjeleníti, csak a controlleren keresztül beszélget a modellel
+    **Palya**: annyi a dolga, hogy az aktuális állapotot megjeleníti, csak a controlleren keresztül beszélget a modellel, példányosítja a Mezot 9x
 ### Kontroller
     Két feladata van:
         1. Pélányosítja a modellt és a viewt
